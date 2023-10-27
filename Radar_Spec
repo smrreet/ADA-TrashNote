@@ -1,0 +1,7 @@
+with Ada.Text_IO; use Ada.Text_IO;
+with Num_Types; use Num_Types;
+
+
+procedure Radar_Spec is
+begin
+end Radar_Spec;
